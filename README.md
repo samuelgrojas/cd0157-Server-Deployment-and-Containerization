@@ -90,3 +90,9 @@ For more detail about each of these steps, see the project lesson.
 ## Resultado
 
 Añado este párrafo para probar un nuevo commit tras realizar la integración de todas las herramientas con AWS. Se ha completado el stack. Hago commit.
+
+
+## Hosted API Endpoint
+
+La API está desplegada en Kubernetes y accesible en:
+http://a39df9b7ad3f441519b7c9b4877a1680-2061316482.us-east-2.elb.amazonaws.
