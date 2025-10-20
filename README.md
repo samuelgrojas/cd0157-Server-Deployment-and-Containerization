@@ -89,4 +89,4 @@ For more detail about each of these steps, see the project lesson.
 
 ## Resultado
 
-Añado este párrafo para probar un nuevo commit tras realizar la integración de todas las herramientas con AWS.
+Añado este párrafo para probar un nuevo commit tras realizar la integración de todas las herramientas con AWS. Se ha completado el stack. Hago commit.
