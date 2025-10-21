@@ -95,4 +95,4 @@ Añado este párrafo para probar un nuevo commit tras realizar la integración d
 ## Hosted API Endpoint
 
 La API está desplegada en Kubernetes y accesible en:
-http://a39df9b7ad3f441519b7c9b4877a1680-2061316482.us-east-2.elb.amazonaws.
+http://a39df9b7ad3f441519b7c9b4877a1680-2061316482.us-east-2.elb.amazonaws.com
